@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jogo Adivinhacao</string>
+    <string name="headerGame">Escolha uma carta</string>
+    <string name="descricaoCartaBaralho1">Primeira carta do baralho!</string>
+    <string name="descricaoCartaBaralho2">Segunda carta do baralho!</string>
+    <string name="descricaoCartaBaralho3">Terceira carta do baralho!</string>
+    <string name="ButtonConfirm">Confirmar</string>
+    <string name="ButtonRestart">Reiniciar o jogo</string>
+</resources>
